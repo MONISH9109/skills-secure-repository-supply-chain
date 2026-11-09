@@ -1,4 +1,4 @@
-name: Step 1 # Review add dependency graph
+name: name: 1-dependency-graph.yml
 
 on:
   push:
