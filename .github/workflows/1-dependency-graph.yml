@@ -1,4 +1,4 @@
-name: name: 1-dependency-graph.yml
+name: 1-dependency-graph.yml
 
 on:
   push:
